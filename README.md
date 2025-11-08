@@ -24,6 +24,7 @@ The final version also includes *user authentication* for secure access.
 ---
 
 ## 🧩 Project Structure
+
 network_file_sharing/
 ├── server.cpp # Server-side logic
 ├── client.cpp # Client-side logic
